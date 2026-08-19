@@ -49,8 +49,8 @@ It features a customized userspace presentation—**KNI Linux 1.0**—stripping 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/k-terminal.git
-cd k-terminal
+git clone https://github.com/hacker1514/linux.git
+cd linux
 ```
 
 ### 2. Install Dependencies
